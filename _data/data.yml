@@ -1,20 +1,20 @@
 basic:
-  name: Foo Bar                      # name
-  title: Backend Developer           # job title
+  name: Muhammad Izaaz                     # name
+  title: Undergraduate Student           # job title
   avatar:
     show: true                       # show or hide avatar
     path: /assets/images/profile.png # avatar file path
 
 contact:
   # meta
-  location: Beijing, China # location
-  email: me@example.com    # email address
-  phone: +86-111-2222-3333 # phone number, format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
-  website: example.com     # site URL without schema, like example.com, will automatically prepand "https://"
+  location: Daejeon, China # location
+  email: mizaazir2@gmail.com    # email address
+  phone: +8210-5186-1127 # phone number, format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
+  website: izaazm.vercel.app     # site URL without schema, like example.com, will automatically prepand "https://"
 
-  gender:                  # gender or pronoun
+  gender: Male                 # gender or pronoun
   birthday:                # birthday
-  nationality:             # nationality
+  nationality: Indonesian            # nationality
   visa:                    # passport visa
   drivinglicense:          # driving licence
 
@@ -28,7 +28,7 @@ contact:
   threema:                 # userid            | https://threema.id/userid
 
   # programmer
-  github:                  # username          | https://github.com/username
+  github: izaazm                 # username          | https://github.com/username
   gitlab:                  # username          | https://gitlab.com/username
   bitbucket:               # username          | https://bitbucket.com/username
   stackoverflow:           # id or id/username | https://stackoverflow.com/users/id/username
@@ -41,7 +41,7 @@ contact:
   # academic
   googlescholar:           # username          | https://scholar.google.com/citations?user=username
   researchgate:            # username          | https://www.researchgate.net/profile/username
-  kaggle:                  # username          | https://www.kaggle.com/username
+  kaggle: mizaazir                 # username          | https://www.kaggle.com/username
   orcid:                   # id                | https://orcid.org/id
   figshare:                # name/id           | https://figshare.com/authors/name/id
 
@@ -59,7 +59,7 @@ contact:
   artstation:              # username          | https://www.artstation.com/username
 
   # other cv
-  linkedin:                # username          | https://linkedin.com/in/username
+  linkedin: muhammad-izaaz               # username          | https://linkedin.com/in/username
   indeed:                  # resumeid          | https://my.indeed.com/p/resumeid
   xing:                    # username          | https://www.xing.com/profile/username
   fiverr:                  # username          | https://www.fiverr.com/username
@@ -83,13 +83,11 @@ profile:
   order: 1
   title: Profile
   description: |
-    The profile section in a resume is a brief summary of the applicant's skills, qualifications, and experience. The purpose of this section is to provide a snapshot of the applicant's professional background and highlight their most relevant accomplishments and strengths. It may include information such as the applicant's career objectives, years of experience, areas of expertise, and key achievements.
-
-    A well-crafted profile section can help to grab the attention of potential employers and encourage them to read on and learn more about the applicant's qualifications and experience.
+    Hello, My name is Izaaz. I'm a third-year KAIST undergraduate studying computer science and mathematics. I'm really interested in machine learning and artifical intelligence and keen on learning and gaining more experience in this field.
 
 experience:
   show: true
-  order: 2
+  order: 3
   title: Experiences
   description: |
     The experiences section in a resume is a section where you list your previous work experiences and accomplishments. It typically includes information about your previous job titles, companies you worked for, the dates of your employment, and your key responsibilities and achievements in each role. This section is important because it gives potential employers a sense of your work history and the skills and expertise you have developed over time. It can also help demonstrate your ability to contribute value to a new organization based on your past achievements.
@@ -199,7 +197,7 @@ skill:
 
 education:
   show: true
-  order: 5
+  order: 2
   title: Education
   description: |
     The education section in a resume is where you provide information about your academic background, including any degrees. In this section, you should include the name and location of the institution where you received your degree, the name of the degree or program you completed, and the date of graduation. If you have earned multiple degrees, list them in reverse chronological order, with the most recent degree first.
