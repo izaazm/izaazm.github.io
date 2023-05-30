@@ -344,22 +344,17 @@ organization:
   order: 7
   title: Organizations
   description: |
-  items:
-    - name: PERPIKA
-      date: 2022
-      link: '#'
-      description: |
-        Internal Division, Indonesian Student Asscociation in Korea, Performed duties and organizing events related to the internal organization
-    - name: KISA
-      date: 2022
-      link: '#'
-      description: |
-        Welfare Division, International Student Association in KAIST, Responsible for and helped managed initiatives regarding international student welfare
-    - name: KAIST-INA
-      date: 2022
-      link: '#'
-      description: |
-        Internal and Special Project Division, Indonesian Student Asscociation in KAIST, Organized multiple internal and external events of the organization
+    * Perpika, 2021-2022
+        
+      Internal Division, Indonesian Student Asscociation in Korea, Performed duties and organizing events related to the internal organization
+        
+    * KISA, 2021-2022
+        
+      Welfare Division, International Student Association in KAIST, Responsible for and helped managed initiatives regarding international student welfare
+        
+    * Perpika, 2021-2022
+        
+      Internal Division, Indonesian Student Asscociation in Korea, Performed duties and organizing events related to the internal organization
         
 language:
   show: true
