@@ -144,7 +144,7 @@ project:
       tags: 
       date: 2022
       description: |
-        A class project for ML for NLP to implement and add improvement to the paper GeDI (Generative Discriminator Guided Sequence Generation), a method to guide LMs generation to reduce bias. The presentation slides can be found [here](/assets/pdf/Final Presentation.pdf)
+        A class project for ML for NLP to implement and add improvement to the paper GeDI (Generative Discriminator Guided Sequence Generation), a method to guide LMs generation to reduce bias. The presentation slides can be found [here](/assets/pdf/gedi.pdf)
         Tech Stacks: Pytorch, Huggingface\
     - name: ChaiNGO
       link: https://github.com/izaazm/Junction2022
@@ -158,7 +158,7 @@ project:
       tags: 
       date: 2022
       description: |
-        A class project for ML for 3D Data to implement the paper Text2Mesh, a method to add textures to meshes through just a text input. The presentation can be found [here](/assets/pdf/Paper Presentation_Team14(Text2Mesh 
+        A class project for ML for 3D Data to implement the paper Text2Mesh, a method to add textures to meshes through just a text input. The presentation can be found [here](/assets/pdf/t2m.pdf)
         Tech Stacks: Pytorch, Huggingface
     - name: Banjeer
       link: https://github.com/izaazm/Microsoft-Imagine-Cup-Banjeer
