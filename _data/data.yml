@@ -93,27 +93,39 @@ experience:
     The experiences section in a resume is a section where you list your previous work experiences and accomplishments. It typically includes information about your previous job titles, companies you worked for, the dates of your employment, and your key responsibilities and achievements in each role. This section is important because it gives potential employers a sense of your work history and the skills and expertise you have developed over time. It can also help demonstrate your ability to contribute value to a new organization based on your past achievements.
 
   items:
-    - company: Second Company
-      link: '#'
-      tags: Full-time
-      date: 2018.03 - 2019.03
-      role: Backend Developer
-      location: Beijing
+items:
+    - company: Institute for Basic Science: Center for Cognition and Sociality
+      link: 
+      tags: 
+      date: 2022.09 - 2022.12
+      role: Undergraduate Research Intern
+      location: Daejeon, South Korea
       description: |
-        Your key responsibilities and achievements in the company.
-        + First
-        + Second
-
-    - company: First Company
+        Performed research on predictive coding relating to consciousness, computational neuroscience, and brain inspired AI
+    - company: KAIST ICLab
       link:
-      tags: Part-time, remote
-      date: 2017.03 - 2018.03
-      role: Backend Developer
-      location: Beijing
+      tags: 
+      date: 2022.06 - 2022.08
+      role: Undergraduate Research Intern
+      location: Daejeon, South Korea
       description: |
-        Your key responsibilities and achievements in the company.
-        + First
-        + Second
+        Performed HCI research on the causality effect on pull intervention and helped redesign the BeActive app using ReactJS 
+    - company: AKA Intelligence
+      link:
+      tags: part-time, remote
+      date: 2022.03 - 2022.09
+      role: AI Researcher and Developer Intern
+      location: Seoul, South Korea
+      description: |
+        Performed task and background research related to talking head generation, Musio Robot, and Musio Metaverse.
+    - company: KAIST NMAIl
+      link:
+      tags: 
+      date: 2021.12 - 2022.04
+      role: Undergraduate Research Intern
+      location: Daejeon, South Korea
+      description: |
+        Helped the lab researcher in the research and modelling of human gait cycle relating to exoskeleton project
 
 project:
   show: true
