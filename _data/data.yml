@@ -263,7 +263,7 @@ education:
         DKI Jakarta’s prominent science high school for gifted students
 
 certificate:
-  show: true
+  show: false
   order: 7
   title: Certificates
   description: |
@@ -314,6 +314,13 @@ award:
       link:
       description: |
         Computing/Informatics
+     - name:  DeepLearning.ai NLP certification
+      awarder:
+      date: 2022
+      link:
+      description: |
+        Andrew Ng's machine learning course hosted on coursera  
+     
 
 patent:
   show: false
