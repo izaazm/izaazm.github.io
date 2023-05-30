@@ -83,7 +83,7 @@ profile:
   order: 1
   title: Profile
   description: |
-    Hello, My name is Izaaz. I'm a third-year KAIST undergraduate studying computer science and mathematics. I'm really interested in machine learning and artifical intelligence and keen on learning and gaining more experience in this field.
+    Hello, My name is Izaaz. I'm a third-year KAIST undergraduate studying computer science and mathematics. I'm really interested in machine learning and artifical intelligence and keen on learning and gaining more experience in this field. My main interest lies in computer vision and NLP, but I'm eager to work on other areas as well. This resume can be downloaded as a pdf file [here](https://1drv.ms/b/s!Alqk-HgcoGHOnNAVq_wgSDKPVahx2A?e=fejTZu)
 
 experience:
   show: true
@@ -208,19 +208,23 @@ education:
       degree: Bachelor
       description: |
         Courses Taken: 
+        + CoE202 Basics of AI
         + CS230 System Programming
         + CS300 Intro to Algorithm
-        + 
+        + CS376 Machine Learning
+        + CS470 Intro to AI
+        + CS475 ML for NLP
+        + CS492A ML for 3D Data
+        + CS564 Data Science Methodology*
+        + CS576 Computer Vision
 
-    - institution: Example University
+    - institution: SMANU MH Thamrin
       link:
       date: 2017 - 2020
-      major: Computer Science
-      degree: Bachelor
+      major: -
+      degree: High School
       description: |
-        Additional information for this institution.
-        + First
-        + Second
+        DKI Jakarta’s prominent science high school for gifted students
 
 certificate:
   show: true
