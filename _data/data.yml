@@ -183,7 +183,7 @@ project:
         Tech Stacks: TensorFlow, Colab        
 skill:
   show: true
-  order: 4
+  order: 6
   title: Skills
   description: |
     The skills section in a resume is a dedicated section where you can list out the various skills that you possess that are relevant to the job you are applying for. This section allows you to highlight your strengths and demonstrate your capabilities to potential employers.
@@ -264,7 +264,7 @@ education:
 
 certificate:
   show: true
-  order: 6
+  order: 7
   title: Certificates
   description: |
   items:
@@ -341,7 +341,7 @@ patent:
 
 organization:
   show: true
-  order: 5
+  order: 7
   title: Organizations
   description: |
   items:
