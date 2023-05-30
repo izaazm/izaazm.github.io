@@ -7,7 +7,7 @@ basic:
 
 contact:
   # meta
-  location: Daejeon, China # location
+  location: Daejeon, South Korea # location
   email: mizaazir2@gmail.com    # email address
   phone: +8210-5186-1127 # phone number, format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
   website: izaazm.vercel.app     # site URL without schema, like example.com, will automatically prepand "https://"
@@ -99,7 +99,6 @@ experience:
       location: Daejeon, South Korea
       description: |
         Performed research on predictive coding relating to consciousness, computational neuroscience, and brain inspired AI
-
     - company: KAIST ICLab
       link:
       tags: 
@@ -107,8 +106,7 @@ experience:
       role: Undergraduate Research Intern
       location: Daejeon, South Korea
       description: |
-        Performed HCI research on the causality effect on pull intervention and helped redesign the BeActive app using ReactJS
-    
+        Performed HCI research on the causality effect on pull intervention and helped redesign the BeActive app using ReactJS 
     - company: AKA Intelligence
       link:
       tags: part-time, remote
@@ -117,7 +115,6 @@ experience:
       location: Seoul, South Korea
       description: |
         Performed task and background research related to talking head generation, Musio Robot, and Musio Metaverse.
-    
     - company: KAIST NMAIl
       link:
       tags: 
@@ -132,31 +129,58 @@ project:
   order: 4
   title: Projects
   description: |
-    The project section in a resume is a section where you can highlight any significant projects that you have completed during your education, work experience, or personal endeavors. This section provides a detailed description of your projects that can showcase your skills, abilities, and achievements.
-
-    In this section, you should include the name of the project, the role you played in the project, the duration, the tools and technologies you used, the objective of the project, and the outcome or result achieved. You can also include any relevant metrics or data that demonstrate the impact of the project.
-
-    The project section is especially useful for candidates with limited work experience or those looking to highlight specific skills or accomplishments that may not be apparent in other parts of their resume. It can also be beneficial for candidates in technical or creative fields, where projects play a significant role in showcasing their capabilities.
+    Some of the projects that I've worked on both class and non-class related
 
   items:
-    - name: Personal project
-      link: '#'
+    - name: Voices of ChatGPT, Getting to Know Indonesian ChatGPT
+      link: https://github.com/izaazm/ChatGPTIndonesian
       tags:
-      date: 2015 - 2017
+      date: 2023
       description: |
-        Personal project description...
-        + First
-        + Second
-
-    - name: OSS project
+        A collaboration project of U&I lab and Xfact to explore ChatGPT in different languages. My team explores the theme of getting to know Indonesian ChatGPT where we explores Indonesian ChatGPT's personality, linguistic knowledge and biases. We also created a toy dataset to measure bias of a language model in Indonesian. Our report slides can be found [here](https://docs.google.com/presentation/d/1mhff2ZXpu-OlGLLgpTyhjB6TuBhq88KFvZjMcx4RE0A/edit?usp=sharing)
+        Tech Stacks: OpenAI API, Colab
+    - name: GeDI
       link:
-      tags: committer
-      date:
+      tags: 
+      date: 2022
       description: |
-        OSS project description...
-        + First
-        + Second
-
+        A class project for ML for NLP to implement and add improvement to the paper GeDI (Generative Discriminator Guided Sequence Generation), a method to guide LMs generation to reduce bias
+        Tech Stacks: Pytorch, Huggingface
+    - name: Text2Mesh
+      link:
+      tags: 
+      date: 2022
+      description: |
+        A class project for ML for 3D Data to implement the paper Text2Mesh, a method to add textures to meshes through just a text input
+        Tech Stacks: Pytorch, Huggingface
+    - name: Banjeer
+      link:
+      tags: 
+      date: 2022
+      description: |
+        Hackathon project to assess the quality of rivers through satellite images
+        Tech Stacks: Python, Pytorch, ReactJS, Django
+    - name: Aeer
+      link:
+      tags: 
+      date: 2021
+      description: |
+        We build an app for a hackathon project to measure, track, and help lessen water consumption of houses equipped with smart faucets
+        Tech Stacks: Python, Pytorch, Flutter, Django
+    - name: Cancer Detection
+      link:
+      tags: 
+      date: 2020
+      description: |
+        A class project for CoE202 to build a model to classify whether a tissue sample taken from a WSI cotain cancer cell of not
+        Tech Stacks: Python, Pytorch, Colab
+    - name: Monet painting
+      link:
+      tags: 
+      date: 2020
+      description: |
+        An individual learning project of implementing CycleGAN to apply a "Monet" effect to pictures using tensorflow
+        Tech Stacks: TensorFlow, Colab        
 skill:
   show: true
   order: 4
@@ -314,7 +338,7 @@ award:
         It's my Example Awared Two by Example.
 
 patent:
-  show: true
+  show: false
   order: 9
   title: Patents
   description: |
@@ -339,24 +363,20 @@ patent:
 
 organization:
   show: true
-  order: 10
+  order: 5
   title: Organizations
   description: |
-    The organization section in a resume, specifically for social contexts, is a section where you can showcase any relevant involvement or leadership positions in social, cultural, or community organizations. This section can highlight your commitment to social causes and your ability to work collaboratively with others towards a common goal.
-
-    In this section, you can list the name of the organization, your role and responsibilities, the duration of your involvement, and any significant achievements or accomplishments. You can also mention any skills or qualities you gained from your involvement, such as leadership, teamwork, communication, or problem-solving skills.
-
-    This section can be especially valuable for candidates seeking positions in the non-profit sector, social work, or community engagement roles, where experience in social or cultural organizations can demonstrate a genuine passion for social causes and a willingness to work collaboratively towards social change. However, it is important to only include organizations that are relevant to the job you are applying for, and avoid listing organizations that may be controversial or potentially offensive.
-
+  items:
+    - name: PERPIKA
+      date: 2022
+      link: '#'
+      description: |
+        It's my Example Awared One by Example.
 language:
   show: true
   order: 11
   title: Languages
   description: |
-    The languages section in a resume typically includes information about your proficiency in different languages. This section can be particularly important if you are applying for a job that requires fluency or proficiency in a specific language.
-
-    It's important to be honest about your language proficiency in your resume. If you overstate your abilities, it could lead to problems during the interview process or on the job. If you have taken language courses or earned language certifications, you can also include this information in the languages section of your resume.
-
   items:
     - idiom: Chinese
       level: Native
@@ -381,7 +401,7 @@ interest:
       link:
 
 evaluation:
-  show: true
+  show: false
   order: 13
   title: Self-evaluation
   description: |
@@ -392,7 +412,7 @@ evaluation:
     A well-crafted self-evaluation section can demonstrate your self-awareness and confidence in your abilities, as well as your willingness to continuously learn and grow. However, it is important to be honest and avoid over-inflating your skills or qualifications, as this can negatively impact your credibility and the hiring manager's impression of you.
 
 reference:
-  show: true
+  show: false
   order: 14
   title: References
   description: |
