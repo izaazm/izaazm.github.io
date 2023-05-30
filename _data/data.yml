@@ -7,14 +7,14 @@ basic:
 
 contact:
   # meta
-  location: Beijing, China # location
-  email: me@example.com    # email address
-  phone: +86-111-2222-3333 # phone number, format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
-  website: example.com     # site URL without schema, like example.com, will automatically prepand "https://"
+  location: Daejeon, China # location
+  email: mizaazir2@gmail.com    # email address
+  phone: +8210-5186-1127 # phone number, format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
+  website: izaazm.vercel.app     # site URL without schema, like example.com, will automatically prepand "https://"
 
-  gender:                  # gender or pronoun
+  gender: Male                 # gender or pronoun
   birthday:                # birthday
-  nationality:             # nationality
+  nationality: Indonesian            # nationality
   visa:                    # passport visa
   drivinglicense:          # driving licence
 
@@ -28,7 +28,7 @@ contact:
   threema:                 # userid            | https://threema.id/userid
 
   # programmer
-  github:                  # username          | https://github.com/username
+  github: izaazm                 # username          | https://github.com/username
   gitlab:                  # username          | https://gitlab.com/username
   bitbucket:               # username          | https://bitbucket.com/username
   stackoverflow:           # id or id/username | https://stackoverflow.com/users/id/username
@@ -41,7 +41,7 @@ contact:
   # academic
   googlescholar:           # username          | https://scholar.google.com/citations?user=username
   researchgate:            # username          | https://www.researchgate.net/profile/username
-  kaggle:                  # username          | https://www.kaggle.com/username
+  kaggle: mizaazir                 # username          | https://www.kaggle.com/username
   orcid:                   # id                | https://orcid.org/id
   figshare:                # name/id           | https://figshare.com/authors/name/id
 
@@ -59,7 +59,7 @@ contact:
   artstation:              # username          | https://www.artstation.com/username
 
   # other cv
-  linkedin:                # username          | https://linkedin.com/in/username
+  linkedin: muhammad-izaaz                # username          | https://linkedin.com/in/username
   indeed:                  # resumeid          | https://my.indeed.com/p/resumeid
   xing:                    # username          | https://www.xing.com/profile/username
   fiverr:                  # username          | https://www.fiverr.com/username
@@ -83,9 +83,7 @@ profile:
   order: 1
   title: Profile
   description: |
-    The profile section in a resume is a brief summary of the applicant's skills, qualifications, and experience. The purpose of this section is to provide a snapshot of the applicant's professional background and highlight their most relevant accomplishments and strengths. It may include information such as the applicant's career objectives, years of experience, areas of expertise, and key achievements.
-
-    A well-crafted profile section can help to grab the attention of potential employers and encourage them to read on and learn more about the applicant's qualifications and experience.
+    Hello, My name is Izaaz. I'm a third-year KAIST undergraduate studying computer science and mathematics. I'm really interested in machine learning and artifical intelligence and keen on learning and gaining more experience in this field. My main interest lies in computer vision and NLP, but I'm eager to work on other areas as well. This resume can be downloaded as a pdf file [here](https://1...content-available-to-author-only...v.ms/b/s!Alqk-HgcoGHOnNAVq_wgSDKPVahx2A?e=fejTZu)
 
 experience:
   show: true
