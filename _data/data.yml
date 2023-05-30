@@ -201,19 +201,20 @@ education:
   title: Education
   description: |
   items:
-    - institution: Example University
+    - institution: KAIST
       link: '#'
-      date: 2015 - 2018
-      major: Machine Learning
-      degree: Master
+      date: 2020 - Present
+      major: Double major in Computer Science and Mathematics
+      degree: Bachelor
       description: |
-        Additional information for this institution.
-        + First
-        + Second
+        Courses Taken: 
+        + CS230 System Programming
+        + CS300 Intro to Algorithm
+        + 
 
     - institution: Example University
       link:
-      date: 2011 - 2015
+      date: 2017 - 2020
       major: Computer Science
       degree: Bachelor
       description: |
