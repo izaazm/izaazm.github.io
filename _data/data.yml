@@ -138,14 +138,14 @@ project:
       date: 2023
       description: |
         A collaboration project of U&I lab and Xfact to explore ChatGPT in different languages. My team explores the theme of getting to know Indonesian ChatGPT where we explores Indonesian ChatGPT's personality, linguistic knowledge and biases. We also created a toy dataset to measure bias of a language model in Indonesian. Our report slides can be found [here](https://docs.google.com/presentation/d/1mhff2ZXpu-OlGLLgpTyhjB6TuBhq88KFvZjMcx4RE0A/edit?usp=sharing)
-        Tech Stacks: OpenAI API, Colab\
+        Tech Stacks: OpenAI API, Colab
     - name: GeDI
       link:
       tags: 
       date: 2022
       description: |
         A class project for ML for NLP to implement and add improvement to the paper GeDI (Generative Discriminator Guided Sequence Generation), a method to guide LMs generation to reduce bias. The presentation slides can be found [here](/assets/pdf/gedi.pdf)
-        Tech Stacks: Pytorch, Huggingface\
+        Tech Stacks: Pytorch, Huggingface
     - name: ChaiNGO
       link: https://github.com/izaazm/Junction2022
       tags: 
@@ -159,7 +159,7 @@ project:
       date: 2022
       description: |
         A class project for ML for 3D Data to implement the paper Text2Mesh, a method to add textures to meshes through just a text input. The presentation can be found [here](/assets/pdf/t2m.pdf)
-        Tech Stacks: Pytorch, Huggingface
+        Tech Stacks: Pytorch, CLIP
     - name: Banjeer
       link: https://github.com/izaazm/Microsoft-Imagine-Cup-Banjeer
       tags: 
@@ -187,7 +187,7 @@ project:
       date: 2020
       description: |
         An individual learning project of implementing CycleGAN to apply a "Monet" effect to pictures using tensorflow
-        Tech Stacks: TensorFlow, Colab        
+        Tech Stacks: TensorFlow, Colab   
 skill:
   show: true
   order: 8
@@ -195,7 +195,7 @@ skill:
   description: |
   items:
   groups:
-    - name: Languages
+    - name: Language
       item:
         - Python
         - C
@@ -204,7 +204,7 @@ skill:
         - Javascript
         - SQL
         - GoLang
-    - name: Technologies/Frameworks
+    - name: Technology/Framework
       item:
         - Linux
         - Github
