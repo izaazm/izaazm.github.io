@@ -96,7 +96,7 @@ experience:
 items:
     - company: Institute for Basic Science: Center for Cognition and Sociality
       link: 
-      tags: 
+      tags: intern
       date: 2022.09 - 2022.12
       role: Undergraduate Research Intern
       location: Daejeon, South Korea
@@ -104,7 +104,7 @@ items:
         Performed research on predictive coding relating to consciousness, computational neuroscience, and brain inspired AI
     - company: KAIST ICLab
       link:
-      tags: 
+      tags: intern
       date: 2022.06 - 2022.08
       role: Undergraduate Research Intern
       location: Daejeon, South Korea
@@ -112,7 +112,7 @@ items:
         Performed HCI research on the causality effect on pull intervention and helped redesign the BeActive app using ReactJS 
     - company: AKA Intelligence
       link:
-      tags: part-time, remote
+      tags: part-time, remote, intern
       date: 2022.03 - 2022.09
       role: AI Researcher and Developer Intern
       location: Seoul, South Korea
@@ -120,7 +120,7 @@ items:
         Performed task and background research related to talking head generation, Musio Robot, and Musio Metaverse.
     - company: KAIST NMAIl
       link:
-      tags: 
+      tags: individual study
       date: 2021.12 - 2022.04
       role: Undergraduate Research Intern
       location: Daejeon, South Korea
