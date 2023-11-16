@@ -91,14 +91,14 @@ experience:
   title: Experiences
   description: |
   items:
-    - company: Institute for Basic Science, Center for Cognition and Sociality
+    - company: KAIST Transport and Urban Planning Arena Lab 
       link: 
       tags: 
-      date: 2022.09 - 2022.12
+      date: 2023.05 - 2022.08
       role: Undergraduate Research Intern
       location: Daejeon, South Korea
       description: |
-        Performed research on predictive coding relating to consciousness, computational neuroscience, and brain inspired AI
+        Performed research and data analysis on personal mobility dataset as well as other transportation data
     - company: KAIST ICLab
       link:
       tags: 
