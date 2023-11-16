@@ -132,6 +132,14 @@ project:
     Some of the projects that I've worked on both class and non-class related
 
   items:
+    - name: Systolic MatMul System
+      link: https://github.com/izaazm/Systolic-Array
+      tags:
+      date: 2023
+      description: |
+        We implemented an accelerator for YOLO inference using systolic array in verilog
+        
+        Tech Stacks: Verilog, C, Vivado, CUDA
     - name: Voices of ChatGPT, Getting to Know Indonesian ChatGPT
       link: https://github.com/izaazm/ChatGPTIndonesian
       tags:
