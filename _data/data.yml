@@ -141,13 +141,21 @@ project:
         
         Tech Stacks: Verilog, C, Vivado, CUDA
     - name: Kaggle CAFA5
-      link: https://www.kaggle.com/competitions/cafa-5-protein-function-prediction
+      link: https://github.com/izaazm/cafa-5-protein-function-prediction
       tags:
       date: 2023
       description: |
-        Kaggle research code competition to predict protein function from their sequences. Bronze medal (still in evaluation period)
+        Kaggle research code competition to predict protein function from their sequences. Bronze medal
         
         Tech Stacks: Pytorch
+    - name: Kaggle Google - Isolated Sign Language Recognition
+      link: https://github.com/izaazm/asl-isolated-sign-language
+      tags:
+      date: 2023
+      description: |
+        Kaggle research code competition to predict classify isolated American Sign Language (ASL) signs
+        
+        Tech Stacks: Tensorflow, XLA
     - name: Voices of ChatGPT, Getting to Know Indonesian ChatGPT
       link: https://github.com/izaazm/ChatGPTIndonesian
       tags:
