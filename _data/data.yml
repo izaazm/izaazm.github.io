@@ -257,16 +257,7 @@ education:
       major: Double major in Computer Science and Mathematics
       degree: Bachelor
       description: |
-        coursework includes: 
-        + CoE202 Basics of AI
-        + CS230 System Programming
-        + CS300 Intro to Algorithm
-        + CS376 Machine Learning
-        + CS470 Intro to AI
-        + CS475 ML for NLP
-        + CS492A ML for 3D Data
-        + CS564 Data Science Methodology*
-        + CS576 Computer Vision
+        
 
     - institution: SMANU MH Thamrin
       link:
