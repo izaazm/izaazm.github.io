@@ -83,7 +83,7 @@ profile:
   order: 1
   title: Profile
   description: |
-    Hello, My name is Izaaz. I'm a third-year KAIST undergraduate studying computer science and mathematics. I'm really interested in machine learning and artifical intelligence and keen on learning and gaining more experience in this field. My main interest lies in computer vision and NLP, but I'm eager to work on other areas as well. This resume can be downloaded as a pdf file [here](https://1drv.ms/b/s!Alqk-HgcoGHOnNAVq_wgSDKPVahx2A?e=oT6P57)
+    Hello, My name is Izaaz. I'm a third-year KAIST undergraduate studying computer science and mathematics. I'm really interested in machine learning and artifical intelligence and keen on learning and gaining more experience in this field. My main interest lies in computer vision and NLP, specifically in Multimodal Models and LLMs, but I'm eager to work on other areas as well. This resume can be downloaded as a pdf file [here](https://1drv.ms/b/s!Alqk-HgcoGHOnNAVq_wgSDKPVahx2A?e=oT6P57)
 
 experience:
   show: true
@@ -91,11 +91,19 @@ experience:
   title: Experiences
   description: |
   items:
+    - company: KAIST NMSL
+      link: 
+      tags: 
+      date: 2024.06 - present
+      role: Research Intern
+      location: Daejeon, South Korea
+      description: |
+        Performed research on Composed Image Retrieval Models
     - company: KAIST Transport and Urban Planning Arena Lab 
       link: 
       tags: 
-      date: 2023.05 - 2022.08
-      role: Undergraduate Research Intern
+      date: 2023.05 - 2023.08
+      role: Research Intern
       location: Daejeon, South Korea
       description: |
         Performed research and data analysis on personal mobility dataset as well as other transportation data
@@ -103,13 +111,13 @@ experience:
       link:
       tags: 
       date: 2022.06 - 2022.08
-      role: Undergraduate Research Intern
+      role: Research Intern
       location: Daejeon, South Korea
       description: |
         Performed HCI research on the causality effect on pull intervention and helped redesign the BeActive app using ReactJS 
     - company: AKA Intelligence
       link:
-      tags: part-time, remote
+      tags: 
       date: 2022.03 - 2022.09
       role: AI Researcher and Developer Intern
       location: Seoul, South Korea
@@ -132,12 +140,20 @@ project:
     Some of the projects that I've worked on both class and non-class related
 
   items:
+    - name: Hyper-Relational Ingram
+      link: https://github.com/izaazm/graph_project
+      tags:
+      date: 2023
+      description: |
+        We proposed a framework to extend the current SoTA model on inductive knowledge graph completion into a new domain of hyper-relational knowledge graph
+
+        Tech Stacks: Pytorch
     - name: Systolic MatMul System
       link: https://github.com/izaazm/Systolic-Array
       tags:
       date: 2023
       description: |
-        We implemented an accelerator for YOLO inference using systolic array in verilog
+        We implemented an accelerator for YOLO inference using systolic array in Verilog
         
         Tech Stacks: Verilog, C, Vivado, CUDA
     - name: Kaggle CAFA5
@@ -238,12 +254,12 @@ skill:
         - GoLang
     - name: Technology/Framework
       item:
-        - Linux
-        - Github
         - Pytorch
         - Tensorflow
+        - Huggingface
         - ReactJS
-        - Unity
+        - Verilog
+        - CUDA
 
 education:
   show: true
@@ -254,7 +270,7 @@ education:
     - institution: KAIST
       link: '#'
       date: 2020 - Present
-      major: Double major in Computer Science and Mathematics
+      major: Double majoring in Computer Science and Mathematics
       degree: Bachelor
       description: |
         
@@ -301,6 +317,12 @@ award:
   title: Awards
   description: |
   items:
+    - name: Bronze medal, Kaggle CAFA 5 Competition
+      awarder: 
+      date: 2020
+      link: 
+      description: |
+        Kaggle research competition on predicting protein functions
     - name: Bronze medal, Global e-Competition on Astronomy and Astrophysics
       awarder: 
       date: 2020
